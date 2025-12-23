@@ -13,18 +13,20 @@
 
 ---
 
+
 ## 🖼️ Project Screenshots
 
 ### 🔐 Login Page
-![Login Page](images/Screenshot%202025-12-23%20154946.png)
+![Login Page](images/Screenshot-2025-12-23-154946.png)
 
 ### 📝 Signup Page
-![Signup Page](images/Screenshot%202025-12-23%20160050.png)
+![Signup Page](images/Screenshot-2025-12-23-160050.png)
 
-### 🔥 Firebase Authentication & Database
-![Firebase Console](images/Screenshot%202025-12-23%20160113.png)
+### 🔥 Firebase Configuration
+![Firebase Setup](images/Screenshot-2025-12-23-160113.png)
 
-> 📌 *Note:* Ensure all screenshots are placed inside an `images/` folder in the project root directory.
+
+
 
 ---
 
