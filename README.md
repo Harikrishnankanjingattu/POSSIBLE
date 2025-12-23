@@ -16,13 +16,13 @@
 ## 🖼️ Project Screenshots
 
 ### 🔐 Login Page
-![Login Page](images/login.png)
+![Login Page](images/Screenshot 2025-12-23 154946.png)
 
 ### 📝 Signup Page
-![Signup Page](images/signup.png)
+![Signup Page](images/Screenshot 2025-12-23 160050.png)
 
-### 📊 Sub-Admin Dashboard
-![Sub-Admin Dashboard](images/subadmin-dashboard.png)
+### 📊 firebase
+![Sub-Admin Dashboard](images/Screenshot 2025-12-23 160113.png)
 
 > 📌 *Note:* Place the images inside an `images` folder in the root directory of the project.
 
