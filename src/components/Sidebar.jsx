@@ -9,7 +9,7 @@ import {
 } from 'lucide-react';
 import '../styles/Sidebar.css';
 
-const Sidebar = ({ activeSection, onSectionChange, user, onLogout }) => {
+const Sidebar = ({ activeSection, onSectionChange, user, onLogout, isMobileOpen, isMobile }) => {
     const [isCollapsed, setIsCollapsed] = useState(false);
 
     const menuItems = [
@@ -26,7 +26,7 @@ const Sidebar = ({ activeSection, onSectionChange, user, onLogout }) => {
     };
 
     return (
-        <div className={`sidebar ${isCollapsed ? 'collapsed' : ''}`}>
+        <div className={`sidebar ${isCollapsed ? 'collapsed' : ''} ${isMobile && isMobileOpen ? 'mobile-open' : ''}`}>
             <div className="sidebar-header">
                 {!isCollapsed && <h2>{getDisplayName()}</h2>}
                 <button
